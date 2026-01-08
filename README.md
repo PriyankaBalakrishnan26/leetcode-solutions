@@ -7,6 +7,7 @@ LeetCode solutions in multiple languages | Daily practice tracking
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,9 @@ LeetCode solutions in multiple languages | Daily practice tracking
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
