@@ -8,6 +8,7 @@ LeetCode solutions in multiple languages | Daily practice tracking
 | ------- |
 | [0001-two-sum](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0414-third-maximum-number](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ LeetCode solutions in multiple languages | Daily practice tracking
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
