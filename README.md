@@ -11,6 +11,7 @@ LeetCode solutions in multiple languages | Daily practice tracking
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0027-remove-element) |
 | [0414-third-maximum-number](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1920-build-array-from-permutation](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ LeetCode solutions in multiple languages | Daily practice tracking
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
