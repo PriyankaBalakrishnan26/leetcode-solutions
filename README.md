@@ -9,6 +9,7 @@ LeetCode solutions in multiple languages | Daily practice tracking
 | [0001-two-sum](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0027-remove-element) |
 | [0414-third-maximum-number](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -39,4 +40,5 @@ LeetCode solutions in multiple languages | Daily practice tracking
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PriyankaBalakrishnan26/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
